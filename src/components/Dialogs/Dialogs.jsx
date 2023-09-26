@@ -1,28 +1,37 @@
 import React from "react";
 import s from './Dialogs.module.css';
-const Dialogs = (react) => {
+const Dialogs = () => {
     return (
         <div className={s.dialogs}>
-            <div className={s.dialogsItems}>
+            <div className= {s.dialogsItems}>
                 <div className={s.dialog}>
-                    Baha
+                    Danka
                 </div>
                 <div className={s.dialog}>
-                    Kirill
+                    Alina
                 </div>
                 <div className={s.dialog}>
                     Alihan
                 </div>
                 <div className={s.dialog}>
-                    Dani
+                    Sister
                 </div>
                 <div className={s.dialog}>
-                    IX
+                    Kirill
                 </div>
-                    <div className={s.messages}>
-                    <div className={s.message}>Salam</div>
-                    <div className={s.message}>Aym</div>
-                    <div className={s.message}>Asal</div>
+                <div className={s.dialog}>
+                    Mama
+                </div>
+            </div>
+            <div className={s.messages}>
+                <div className={s.message}>
+                    Hi brr
+                </div>
+                <div className={s.message}>
+                    Yoo
+                </div>
+                <div className={s.message}>
+                    My name is
                 </div>
             </div>
         </div>
