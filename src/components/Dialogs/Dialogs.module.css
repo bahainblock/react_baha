@@ -6,7 +6,6 @@
 
 .dialogsItems .dialog {
     padding: 10px;
-
 }
 
 .messages {
@@ -15,4 +14,9 @@
 
 .message {
 
+}
+
+.dialogsItems img {
+    width: 24px;
+    border-radius: 50%;
 }
