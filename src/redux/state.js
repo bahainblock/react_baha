@@ -25,6 +25,7 @@ let state = {
     },
     friendsPage: {
         friends: [
+            {name: 'Friends'},
             {name: 'Danka'},
             {name: 'Ivan'},
             {name: 'Mama'}
