@@ -21,6 +21,7 @@ let state = {
             {id: 3, messages: 'Yoo'},
             {id: 4, messages: 'Yoo'},
             {id: 5, messages: 'Yoo'},
+            {id: 5, messages: 'Yoyyyo'},
         ]
     },
     friendsPage: {
